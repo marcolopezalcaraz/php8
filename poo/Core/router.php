@@ -1,5 +1,6 @@
 <?php
 
+//Clase de los miercoles
 class Router {
 
     protected $routes = [];
