@@ -1,8 +1,6 @@
 <?php
 
-//Clase de los miercoles
 
-// empezar la clase con GitHub
 class Router {
 
     protected $routes = [];
